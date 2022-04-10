@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnastasiyaSousa
+- 👋 Hi, I’m Anastasiya
 - 👀 I’m looking for a job as QA Engineer
 - 🌱 I’m currently learning Postman
 - 💞️ I’m looking to collaborate on part-time and full-time projects
