@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anastasiya
-- 👀 I’m looking for a job as QA Engineer
-- 🌱 I’m currently learning Postman
+- 👀 I’m looking for an internship in Cybersecurity
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on part-time and full-time projects
 - 📫 How to reach me nastya.sousa@gmail.com
 
